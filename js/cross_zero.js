@@ -193,12 +193,3 @@ function toUpperCaseText(el) {
   if(!el || !el.value) return;
     el.value = el.value.toUpperCase();
 };
-dsfdsfdsf dfsf
-fsdfdsfds
-fdsf
-dsf
-sdfds
-fds
-
-
-aaaaaaadfdsdsdf
