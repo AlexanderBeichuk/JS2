@@ -184,7 +184,7 @@ function Element(id, name, classname, parent) {
         div.removeChild(setInfo.element);
         buttons = createSquare();
         start();
-      }ddd
+      }
     }
   }
 }());
@@ -193,3 +193,10 @@ function toUpperCaseText(el) {
   if(!el || !el.value) return;
     el.value = el.value.toUpperCase();
 };
+dsfdsfdsf dfsf
+fsdfdsfds
+fdsf
+dsf
+sdfds
+fds
+fdsfdsdfsdfdsfdsf
