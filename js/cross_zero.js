@@ -184,7 +184,7 @@ function Element(id, name, classname, parent) {
         div.removeChild(setInfo.element);
         buttons = createSquare();
         start();
-      }
+      }ddd
     }
   }
 }());
